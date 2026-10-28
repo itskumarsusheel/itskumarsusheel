@@ -141,6 +141,39 @@ I enjoy solving complex business problems through scalable architecture, mentori
 
 ---
 
+## 🎯 Areas of Interest
+
+`Backend Engineering` • `Java` • `Spring Boot`
+
+`Microservices` • `REST APIs` • `System Integration`
+
+`Event-Driven Architecture` • `Kafka` • `RabbitMQ`
+
+`Generative AI` • `Prompt Engineering` • `Developer Productivity`
+
+---
+
+## 🌱 Currently Exploring
+
+I'm continuously learning and experimenting with:
+
+- **Spring Boot 4**
+- Cloud-native application development
+- Distributed and event-driven systems
+- Generative AI for software engineering
+- Prompt engineering
+- AI-assisted developer workflows
+- Modern engineering practices
+
+---
+
+## 💡 Engineering Philosophy
+
+> **Keep things simple. Build reliable systems. Automate repetitive work.  
+> Keep learning, and share what you learn.**
+
+---
+
 ## 📫 Connect With Me
 
 - LinkedIn: https://linkedin.com/in/itskumarsusheel
